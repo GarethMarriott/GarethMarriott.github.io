@@ -23,7 +23,7 @@ p {
 }
 
 .hero {
-	background-image: url("mouse.jpg");
+	background-image: url("./mouse.jpg");
 	background-position: center top;
 	background-size: cover;
 	padding: 350px 0;
